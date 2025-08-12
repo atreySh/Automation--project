@@ -53,3 +53,4 @@ public class CucumberExtentReportPlugin implements Plugin, ConcurrentEventListen
 	        extent.flush();
 	    }
 }
+
