@@ -2,8 +2,7 @@
 <suite name="FlipkartTestSuite">
     <test name="FlipkartTests">
         <classes>
-            <class name="Testcases.FlipkartResultTest"/>
-             <class name="Testcases.FlipkartSearchtest"/>
+             <class name="TestRunner.TestRunner.Java"/>
         </classes>
     </test>
 </suite>
