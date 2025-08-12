@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="FlipkartTestSuite">
+    <test name="FlipkartTests">
+        <classes>
+            <class name="Testcases.FlipkartResultTest"/>
+             <class name="Testcases.FlipkartSearchtest"/>
+        </classes>
+    </test>
+</suite>
